@@ -1,0 +1,7 @@
+pyocr
+# 英語にのみ対応したもの
+PyPDF2
+# 日本語PDFにも対応したもの
+pdfminer.six
+nltk
+gensim

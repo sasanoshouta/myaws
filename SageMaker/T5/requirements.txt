@@ -1,0 +1,9 @@
+ipywidgets
+jupyter
+wandb
+pathlib
+torch
+transformers==4.5.0
+sentencepiece
+neologdn
+sklearn
