@@ -1,0 +1,8 @@
+version: '2'
+services:
+  batfish:
+    image: sasanosan/my-image:to-wang
+    container_name: aws02
+    command: serve
+    volumes:
+      - /home/ec2-user/environment/sasanosan/:/opt/ml/
